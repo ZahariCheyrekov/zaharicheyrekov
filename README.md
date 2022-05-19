@@ -1,6 +1,6 @@
 # Hi, I'm Zahari Cheyrekov 👋
 
-👨‍💻A passionate Software Engineer student
+👨‍💻 A passionate Software Engineer student
 
 🌱 I'm currently learning:
 
