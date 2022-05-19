@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZahariCheyrekov&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ZahariCheyrekov&icon=5&color=1)](https://visitcount.itsvg.in)
+
