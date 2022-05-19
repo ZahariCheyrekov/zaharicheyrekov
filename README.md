@@ -1,6 +1,7 @@
 # Hi, I'm Zahari Cheyrekov 👋
 
-👨‍💻A passionate Software Engineer studen
+👨‍💻A passionate Software Engineer student
+
 🌱 I'm currently learning Java and JavaScript
 
 # 🌐Socials
