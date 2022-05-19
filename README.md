@@ -2,7 +2,7 @@
 
 👨‍💻A passionate Software Engineer student
 
-🌱 I'm currently learning Java and JavaScript
+🌱 I'm currently learning :java: and JavaScript
 
 # 🌐Socials
 <p align="left">
