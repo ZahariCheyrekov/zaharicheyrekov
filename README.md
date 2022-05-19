@@ -1,4 +1,4 @@
-# Hi, I'm Zahari Cheyrekov 👋
+# 👋 Hi, I'm Zahari Cheyrekov
 
 👨‍💻 A passionate Software Engineering student
 
