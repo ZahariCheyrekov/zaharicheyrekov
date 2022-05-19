@@ -1,4 +1,8 @@
-# 💫About Me :
+# Hi, I'm Zahari Cheyrekov 👋
+
+<h1 align="center"></h1>
+<h3 align="center">A passionate Software Engineer student</h3>
+
 🌱 I'm currently learning Java and JavaScript
 
 # 🌐Socials
