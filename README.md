@@ -4,7 +4,7 @@
 # 🌐Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/zahari-cheyrekov-5647a9227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaharicheyrekov" height="30" width="40" /></a>
-<a href="https://fb.com/zahari cheyrekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahari cheyrekov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zahari.cheyrekov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahari cheyrekov" height="30" width="40" /></a>
 </p>
 
 # 💻Tech Stack
