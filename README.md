@@ -5,7 +5,7 @@
 ## Tech Stack
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,java,idea,vscode" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,java,firebase,idea,vscode" />
 </a>
 
 ## 🌐 Socials
