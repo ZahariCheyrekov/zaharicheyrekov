@@ -15,5 +15,5 @@
 </p>
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahariCheyrekov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahariCheyrekov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZahariCheyrekov&theme=dark&hide_border=false)
