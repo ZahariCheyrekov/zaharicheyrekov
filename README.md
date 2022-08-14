@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Currently studying Software Engineering
 
-## Skills
+## Tools
 
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,react,java,firebase" />
