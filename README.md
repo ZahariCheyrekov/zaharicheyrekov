@@ -5,7 +5,7 @@
 ## Skills
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,react,java,firebase" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,react,java,firebase" />
 </a>
 
 ## 🌐 Socials
