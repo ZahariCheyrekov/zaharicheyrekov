@@ -5,7 +5,7 @@
 ## Tools
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,react,java,firebase" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,nodejs,react,java,firebase" />
 </a>
 
 ## 🌐 Socials
