@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zahari Cheyrekov
 
-### 👨‍💻 Software engineer who is passionate about building real world applications, working with other developers and creating amazing software.
+### 👨‍💻 Software engineer who is passionate about building and writing code, working with other developers and creating amazing software.
 
 ## Tools
 
