@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Zahari Cheyrekov
-
-### 👨‍💻 Software Engineer who is passionate about building and writing software, working with other developers and creating amazing applications.
-
-## Tools
+## Skills
 
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,nodejs,react,java,firebase" />
