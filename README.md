@@ -1,7 +1,7 @@
 ## Skills
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,nodejs,react,express,java,firebase,sass,git" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,ts,mongodb,nodejs,react,express,java,firebase,sass,git" />
 </a>
 
 ## 🌐 Socials
