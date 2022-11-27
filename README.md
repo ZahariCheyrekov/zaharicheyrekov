@@ -21,7 +21,10 @@
 ## 🛠️ Technologies & Tools:
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,css,figma,react,java,express,nodejs,mongodb,firebase,sass,html,git,heroku" />
+   <img src="https://skillicons.dev/icons?i=js,ts,css,figma,react,java,express" />
+</a>
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,sass,html,git,heroku" />
 </a>
 
 ## 📊 GitHub Stats :
