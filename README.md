@@ -14,17 +14,16 @@
 ## 📫 How to reach me:
  Feel free to reach me on any of the given links on my Linktree: https://linktr.ee/zaharicheyrekov
 
+## ♟️ Other interests:
+ - 🎯 Personal development is a hobby of mine. I love to read books about it and share different thoughts and ideas with people.
+ - 🏕️ My time outside of programming is usually spent reading books, socializing, listening to music, playing chess and weight lifting.
+
+
 ## Skills
 
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,html,css,ts,mongodb,nodejs,react,express,java,firebase,sass,git" />
 </a>
-
-## Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/zahari-cheyrekov-5647a9227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaharicheyrekov" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zahari.cheyrekov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahari cheyrekov" height="30" width="40" /></a>
-</p>
 
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahariCheyrekov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
