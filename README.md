@@ -5,18 +5,18 @@
 
 ## ⚙️ Projects
 
-   - 📚 <strong>Bookreads</strong> - a social media and it's all about books. This is a place to find your next book to read. Any user can create books, review books, create posts, rate books, comment on posts and be an author. - https://github.com/ZahariCheyrekov/bookreads
+   - 📚 <strong>Bookreads</strong> - a <strong>social media</strong> and it's all about books. This is a place to find your next book to read. Any user can create books, review books, create posts, rate books, comment on posts and be an <strong>author</strong>. - https://github.com/ZahariCheyrekov/bookreads
 
-   - 📸 <strong>Memorify</strong> -  a Fullstack web application wich was created with the MERN stack. The idea of the project is a simple place where people can share their memories with others and give opinion about certain places they visited. - https://github.com/ZahariCheyrekov/memorify
+   - 📸 <strong>Memorify</strong> -  a <strong>fullstack</strong> web application wich was created with the <strong>MERN</strong> stack. The idea of the project is a simple place where people can share their memories with others and give opinion about certain places they visited. - https://github.com/ZahariCheyrekov/memorify
 
-   - 🎬 <strong>Movies Now</strong> - Movies Now is a place where you can find your favorite movies. The application gives user full access to the information about each and every movie in the collection of movies. Users are able to learn more about the movies they love and every registered user can create movie and add it to the collection of movies. - https://github.com/ZahariCheyrekov/movies-now
+   - 🎬 <strong>Movies Now</strong> - a place where you can find your favorite <strong>movies</strong>. The application gives user full access to the information about each and every movie in the collection of movies. Users are able to <strong>learn</strong> more about the movies they love and every registered user can <strong>create</strong> movie and add it to the collection of movies. - https://github.com/ZahariCheyrekov/movies-now
 
 ## 📫 How to reach me:
  Feel free to reach me on any of the given links on my Linktree: https://linktr.ee/zaharicheyrekov
 
 ## ♟️ Other interests:
- - 🎯 Personal development is a hobby of mine. I love to read books about it and share different thoughts and ideas with people.
- - 🏕️ My time outside of programming is usually spent reading books, socializing, listening to music, playing chess and weight lifting.
+ - 🎯 <strong>Personal development</strong> - I love to read books about it and share different thoughts and ideas with people.
+ - 🏕️ <strong>Interests</strong> - my time outside of programming is usually spent reading books, socializing, listening to music, playing chess and weight lifting.
 
 
 ## Skills
