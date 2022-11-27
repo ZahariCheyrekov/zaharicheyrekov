@@ -18,11 +18,10 @@
  - 🎯 <strong>Personal development</strong> - I love to read books about it and share different thoughts and ideas with people.
  - 🏕️ <strong>Interests</strong> - my time outside of programming is usually spent reading books, socializing, listening to music, playing chess and weight lifting.
 
-
-## Skills
+## 🛠️ Technologies & Tools:
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,ts,mongodb,nodejs,react,express,java,firebase,sass,git" />
+   <img src="https://skillicons.dev/icons?i=js,ts,css,figma,react,java,express,nodejs,mongodb,firebase,sass,html,git,heroku" />
 </a>
 
 ## GitHub Stats :
