@@ -24,9 +24,9 @@
    <img src="https://skillicons.dev/icons?i=js,ts,css,figma,react,java,express,nodejs,mongodb,firebase,sass,html,git,heroku" />
 </a>
 
-## GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahariCheyrekov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+## 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZahariCheyrekov&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahariCheyrekov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
