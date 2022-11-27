@@ -11,6 +11,8 @@
 
    - 🎬 <strong>Movies Now</strong> - Movies Now is a place where you can find your favorite movies. The application gives user full access to the information about each and every movie in the collection of movies. Users are able to learn more about the movies they love and every registered user can create movie and add it to the collection of movies. - https://github.com/ZahariCheyrekov/movies-now
 
+## 📫 How to reach me:
+ Feel free to reach me on any of the given links on my Linktree: https://linktr.ee/zaharicheyrekov
 
 ## Skills
 
