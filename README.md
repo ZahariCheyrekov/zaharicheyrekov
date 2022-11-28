@@ -15,8 +15,8 @@
  Feel free to reach me on any of the given links on my Linktree: https://linktr.ee/zaharicheyrekov
 
 ## ♟️ Other interests:
- - 🎯 <strong>Personal development</strong> - I love to read books about it and share different thoughts and ideas with people.
- - 🏕️ <strong>Interests</strong> - my time outside of programming is usually spent reading books, socializing, listening to music, playing chess and weight lifting.
+ - 🎯 <strong>Personal development</strong> - I love to read books about personal development and share different thoughts and ideas with people.
+ - 🏕️ <strong>Activities</strong> - my time outside of programming is usually spent reading books, socializing, listening to music, playing chess and weight lifting.
 
 ## 🛠️ Technologies & Tools:
 
