@@ -7,7 +7,7 @@
 
    - 🥙 <strong>FoodTime</strong> - a web application <strong>ordering platform</strong> that allows users to buy fresh and healthy food from anywhere in the world. It offers a full range of <strong>delivery</strong> solutions built by restaurant people, for restaurant people. - https://github.com/ZahariCheyrekov/food-time
 
-   - 📚 <strong>Bookreads</strong> - a <strong>social media</strong> and it's all about books. This is a place to find your next book to read. Any user can create books, review books, create posts, rate books, comment on posts and be an <strong>author</strong>. - https://github.com/ZahariCheyrekov/bookreads
+   - 📚 <strong>Bookreads</strong> - a <strong>social media</strong> and it's all about books. This is a place to find your next book to read. <strong>Bookreads</strong> is by far the best choice when it comes to adjusting your <strong>reading habits</strong> and taking full advantage of your time. - https://github.com/ZahariCheyrekov/bookreads
 
    - 📸 <strong>Memorify</strong> -  a <strong>fullstack</strong> web application wich was created with the <strong>MERN</strong> stack. The idea of the project is a simple place where people can share their memories with others and give opinion about certain places they visited. - https://github.com/ZahariCheyrekov/memorify
 
