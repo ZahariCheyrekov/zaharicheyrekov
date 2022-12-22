@@ -1,11 +1,11 @@
 ## 👋 Introduction & Bio
 💻 I am Zahari Cheyrekov and I am passionate and hardworking <strong>Software Engineer</strong> who loves to write code and solve problems. I have interest in <strong>Web Development</strong> and <strong>Software Engineering</strong> fields and am seeking new and exciting opportunities related to them.
 
-🧠 <strong>JavaScript</strong> is my main programming language and have previous experience creating web applications with <strong>MERN</strong> stack, but I consider myself a fast learner and I don't have any problems working with new technologies and getting the work done. - https://github.com/ZahariCheyrekov/food-time
+🧠 <strong>JavaScript</strong> is my main programming language and have previous experience creating web applications with <strong>MERN</strong> stack, but I consider myself a fast learner and I don't have any problems working with new technologies and getting the work done.
 
 ## ⚙️ Projects
 
-   - 🥙 <strong>FoodTime</strong> - a web application <strong>ordering platform</strong> that allows users to buy fresh and healthy food from anywhere in the world. It offers a full range of <strong>delivery</strong> solutions built by restaurant people, for restaurant people.
+   - 🥙 <strong>FoodTime</strong> - a web application <strong>ordering platform</strong> that allows users to buy fresh and healthy food from anywhere in the world. It offers a full range of <strong>delivery</strong> solutions built by restaurant people, for restaurant people. - https://github.com/ZahariCheyrekov/food-time
 
    - 📚 <strong>Bookreads</strong> - a <strong>social media</strong> and it's all about books. This is a place to find your next book to read. Any user can create books, review books, create posts, rate books, comment on posts and be an <strong>author</strong>. - https://github.com/ZahariCheyrekov/bookreads
 
