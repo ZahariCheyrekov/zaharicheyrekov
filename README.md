@@ -1,7 +1,7 @@
 ## 👋 Introduction & Bio
 💻 I am Zahari Cheyrekov and I am passionate and hardworking <strong>Software Engineer</strong> who loves to write code and solve problems. I have interest in <strong>Web Development</strong> and <strong>Software Engineering</strong> fields and am seeking new and exciting opportunities related to them.
 
-🧠 <strong>JavaScript</strong> is my main programming language and have previous experience creating web applications with <strong>MERN</strong> stack, but I consider myself a fast learner and I don't have any problems working with new technologies and getting the work done.
+🧠 <strong>JavaScript</strong> is my main programming language and have previous experience creating web applications with <strong>MERN</strong> stack.
 
 ## ⚙️ Projects
 
