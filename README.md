@@ -9,8 +9,6 @@
 
    - 📚 <strong>Bookreads</strong> - a <strong>social media</strong> and it's all about books. This is a place to find your next book to read. <strong>Bookreads</strong> is by far the best choice when it comes to adjusting your <strong>reading habits</strong> and taking full advantage of your time. - https://github.com/ZahariCheyrekov/bookreads
 
-   - 📸 <strong>Memorify</strong> -  a <strong>fullstack</strong> web application wich was created with the <strong>MERN</strong> stack. The idea of the project is a simple place where people can share their memories with others and give opinion about certain places they visited. - https://github.com/ZahariCheyrekov/memorify
-
 ## 📫 How to reach me:
  Feel free to reach me on any of the given links on my Linktree: https://linktr.ee/zaharicheyrekov
 
