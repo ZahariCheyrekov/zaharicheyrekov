@@ -5,9 +5,9 @@
 
 ## ⚙️ Projects
 
-   - 🥙 <strong>FoodTime</strong> - a web application <strong>ordering platform</strong> that allows users to buy fresh and healthy food from anywhere in the world. It offers a full range of <strong>delivery</strong> solutions built by restaurant people, for restaurant people. - https://github.com/ZahariCheyrekov/food-time
-
    - 📚 <strong>Bookreads</strong> - a <strong>social media</strong> and it's all about books. This is a place to find your next book to read. <strong>Bookreads</strong> is by far the best choice when it comes to adjusting your <strong>reading habits</strong> and taking full advantage of your time. - https://github.com/ZahariCheyrekov/bookreads
+
+   - 🥙 <strong>FoodTime</strong> - a web application <strong>ordering platform</strong> that allows users to buy fresh and healthy food from anywhere in the world. It offers a full range of <strong>delivery</strong> solutions built by restaurant people, for restaurant people. - https://github.com/ZahariCheyrekov/food-time
 
 ## 📫 How to reach me:
  Feel free to reach me on any of the given links on my Linktree: https://linktr.ee/zaharicheyrekov
