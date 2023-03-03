@@ -19,7 +19,7 @@
 ## 🛠️ Technologies & Tools:
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,css,figma,powershell,react,java,express" />
+   <img src="https://skillicons.dev/icons?i=js,ts,css,figma,powershell,react,java,express,nextjs" />
 </a>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,sass,html,git,angular,bootstrap,heroku" />
