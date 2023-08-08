@@ -24,6 +24,3 @@
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,sass,html,git,angular,bootstrap,heroku" />
 </a>
-
-## 📊 GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZahariCheyrekov&theme=dark&hide_border=false)   
