@@ -26,6 +26,8 @@
 </a>
 
 
-![snake gif](https://github.com/ZahariCheyrekov/zaharicheyrekov/blob/output/github-contribution-grid-snake.gif)
-
+<article>
+   <h2>👨‍💻 Github Contributions</h2>
+   <img src="https://github.com/ZahariCheyrekov/zaharicheyrekov/blob/output/github-contribution-grid-snake-dark.svg"/>
+</article>
 
