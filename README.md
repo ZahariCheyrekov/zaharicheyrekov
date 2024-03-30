@@ -24,3 +24,8 @@
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,sass,html,git,angular,bootstrap,heroku" />
 </a>
+
+
+![snake gif](https://github.com/ZahariCheyrekov/zaharicheyrekov/blob/output/github-contribution-grid-snake.gif)
+
+
